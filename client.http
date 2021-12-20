@@ -1,0 +1,18 @@
+
+POST  https://3001-beige-leopon-xitp2wz5.ws-us23.gitpod.io/api/register
+Content-Type: application/json
+
+{
+    "email": "sadiel@outlook.com",
+    "password": "admin123"
+}
+
+###
+
+POST  https://3001-beige-leopon-xitp2wz5.ws-us23.gitpod.io/api/login
+Content-Type: application/json
+
+{
+    "email": "sadiel@outlook.com",
+    "password": "admin123"
+}

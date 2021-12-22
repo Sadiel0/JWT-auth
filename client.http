@@ -16,3 +16,9 @@ Content-Type: application/json
     "email": "sadiel@outlook.com",
     "password": "admin123"
 }
+
+###
+
+GET  https://3001-beige-leopon-xitp2wz5.ws-us23.gitpod.io/api/userinfo
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTYzOTg0NzcwNiwianRpIjoiYzc3YzU1MTgtNWI0NS00ZTlkLWEwMWUtNjM2MmFhOWRiYTA2IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6NSwibmJmIjoxNjM5ODQ3NzA2LCJleHAiOjE2Mzk4NDg2MDZ9.-f_AwYmvsjQOQsgr3RdyeCGho__oly5-prA_zEVy_FA
+

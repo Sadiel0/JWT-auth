@@ -1,3 +1,20 @@
 /* 
     General Styles used on every website (Don't Repeat Yourself)
 */
+h1 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.login-form {
+  width: 350px;
+  margin: auto;
+  margin-top: 150px;
+}
+
+.register-form {
+  width: 350px;
+  margin: auto;
+  margin-top: 150px;
+}

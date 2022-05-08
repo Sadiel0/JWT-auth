@@ -1,9 +1,9 @@
 
-POST  https://3001-beige-leopon-xitp2wz5.ws-us23.gitpod.io/api/register
+POST  https://3001-beige-leopon-xitp2wz5.ws-us25.gitpod.io/api/register
 Content-Type: application/json
 
 {
-    "email": "sadiel@outlook.com",
+    "email": "lo@outlook.com",
     "password": "admin123"
 }
 

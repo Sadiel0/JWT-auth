@@ -33,7 +33,7 @@ def register_user():
     return "", 204
 
 
-@api.route('/login',methods={'POST'})
+@api.route('/login',methods=['POST'])
 def login_user():
     data = request.get_json(force=True)
     
